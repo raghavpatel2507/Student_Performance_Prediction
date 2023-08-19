@@ -1,8 +1,6 @@
 pandas
 numpy
+flask
 seaborn
-matplotlib
 scikit-learn
-catboost
-Flask
 -e .
